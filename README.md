@@ -54,3 +54,6 @@ reportWebVitals.js measures app performance using Web Vitals metrics.
 
 setupTests.js is used to configure testing utilities, such as Jest and React Testing Library, enabling unit or integration tests for UI components.
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/a4822392-211f-4807-abe7-e20cc9a13cd2)
+![Image](https://github.com/user-attachments/assets/276d44f2-6661-4a43-980d-b56c1f25b712)
